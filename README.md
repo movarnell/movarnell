@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a movie review project using a movie database and react.  
+- 🔭 I’m currently working on a ideas for the final project and more projects for my portfolio.
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with finding a great place to work with some learning opportunities. 
 - 💬 Ask me about how sleep changed my life and encouraged me to chase my dreams.
