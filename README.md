@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a ideas for the final project and more projects for my portfolio.
+- 🔭 I’m currently working a fake store project with my free time.
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with finding a great place to work with some learning opportunities. 
 - 💬 Ask me about how sleep changed my life and encouraged me to chase my dreams.
