@@ -1,5 +1,5 @@
-- 🔭 I’m currently working a fake store project with my free time.
-- 🌱 I’m currently learning React
+- 🔭 I’m actively looking for a job while furthering my skills.
+- 🌱 I’m currently learning TypeScript
 - 🤔 I’m looking for help with finding a great place to work with some learning opportunities. 
 - 💬 Ask me about how sleep changed my life and encouraged me to chase my dreams.
 - 😄 Pronouns: He/Him
