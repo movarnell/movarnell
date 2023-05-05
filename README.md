@@ -1,12 +1,9 @@
 - 🔭 I’m actively looking for a job while furthering my skills.
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and PHP
 - 🤔 I’m looking for help with finding a great place to work with some learning opportunities. 
 - 💬 Ask me about how sleep changed my life and encouraged me to chase my dreams.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe that work should empower you, and that if you can't tell if your working then your living life to the fullest!
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=movarnell&icon=5&color=1)](https://visitcount.itsvg.in)
 
