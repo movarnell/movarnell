@@ -1,3 +1,4 @@
+- Excited, just launched a dog park app for my neighborhood, check it out at www.15thplacedogpark.com
 - 🔭 I’m actively looking for a job while furthering my skills.
 - 🌱 I’m currently learning TypeScript and PHP
 - 🤔 I’m looking for help with finding a great place to work with some learning opportunities. 
