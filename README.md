@@ -1,4 +1,4 @@
-#Welcome!
+# Welcome!
 ## 💫 About Me:
 I am a mentor with Promineo Tech teaching students one on one. 
 Excited, just launched a dog park app for my neighborhood, check it out at www.15thplacedogpark.com<br>🔭 I’m actively looking for a job while further developing my skills, and learning new ones!<br>🌱 I’m currently learning TypeScript and PHP<br>💬 Ask me about how sleep changed my life and encouraged me to chase my dreams.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I believe that when you find the right job, it won't feel like work. That's just living.
