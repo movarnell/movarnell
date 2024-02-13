@@ -1,6 +1,7 @@
 # Welcome!
 ## 💫 About Me:
-I am a mentor with Promineo Tech teaching students one on one. 
+I am a Front End Developer and Mentor with Promineo Tech teaching students one on one. 
+I am in the process of creating a React version of my www.HelpCodeIt.com website that will include practice problems you can work right in the application. www.helpcodeit.com
 Excited, just launched a dog park app for my neighborhood, check it out at www.15thplacedogpark.com<br>🔭 I’m actively developing my skills, and learning new ones!<br>🌱 I’m currently learning TypeScript and PHP<br>💬 Ask me about how sleep changed my life and encouraged me to chase my dreams.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I believe that when you find the right job, it won't feel like work. That's just living.
 <script><button onclick="alert('Button was clicked!')">Click Me</button></script>
 
