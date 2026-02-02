@@ -1,6 +1,6 @@
 # Welcome!
 ## 🍋 About Me:
-I am a Software Engineer and AI Integration Expert at Rocket Software with a focus on front‑end development.
+I am a Software Engineer, Technical Support Engineer and AI Integration Expert at Rocket Software with a focus on front‑end development.
 I support clients installing Zowe and IBM UMS while building tools with intuitive interfaces using React, JavaScript, and TypeScript.
 I enjoy mentoring aspiring developers, volunteering with local tech organizations like GiveCampNWA, and creating engaging applications. <br>
 
