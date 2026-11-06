@@ -44,6 +44,6 @@ I enjoy aviation, space exploration, reading, bowling, and oil painting. I'm hap
 
 **[Portfolio](https://michaelvarnell.com/)** · **[LinkedIn](https://www.linkedin.com/in/michaelovarnell/)**
 
-For recruiting inquiries or personal notes about my work, please use the contact form on my portfolio. I'm not accepting collaboration project pitches, agency offers, or automated outreach.
+For recruiting inquiries or personal notes about my work, please use the contact form on my portfolio. I'm not open to contract work and am not accepting collaboration project pitches, agency offers, or automated outreach.
 
 *He/Him*
