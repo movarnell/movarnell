@@ -1,6 +1,6 @@
 # Hi, I'm Michael Varnell 👋
 
-**Software developer · Technical Support Engineer II at Rocket Software · Rogers, Arkansas**
+**Software Engineer · AI Integration & Technical Education · Technical Support Engineer II at Rocket Software · Rogers, Arkansas**
 
 I build software that helps people understand complex systems and solve practical problems. My work brings together mainframe support, web development, AI integration, and automation—with a focus on making useful tools easy to use.
 
